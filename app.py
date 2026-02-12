@@ -5,7 +5,7 @@ st.set_page_config(page_title="Insurance FAQ Chatbot", page_icon="💬")
 st.title("💬 Insurance FAQ Chatbot")
 st.write("Ask questions related to insurance")
 
-faq = {
+faq = { 
     "what is insurance": "Insurance is a financial agreement where you get protection against financial losses.",
     "types of insurance": "Life, Health, Motor, Home, and Travel insurance are common types.",
     "what is premium": "Premium is the amount paid periodically to keep the policy active.",
